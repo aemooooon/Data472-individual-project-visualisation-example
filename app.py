@@ -68,7 +68,7 @@ query = """
 """
 
 # Fetch data from GraphQL API
-response = requests.post("http://localhost:4000/graphql", json={"query": query})
+response = requests.post("http://3.25.53.109/hua/graphql", json={"query": query})
 
 if response.status_code == 200:
     data = response.json()
