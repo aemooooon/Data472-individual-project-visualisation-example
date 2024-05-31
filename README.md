@@ -6,7 +6,7 @@ This project is part of the Data472 - Data Engineer course, created as an indivi
 
 The Canterbury Air Quality Monitoring Stations Visualization project aims to visualize real-time data from various air quality monitoring stations in Canterbury. The project utilizes data fetched from a GraphQL API and presents it through an interactive Streamlit dashboard. The visualization includes detailed information about each monitoring station, pollution distribution, and geographical representation using a map.
 
-![Online Live Demo](http://visual.hua.nz/)
+[Online Live Demo](http://visual.hua.nz/)
 
 ## Features
 
